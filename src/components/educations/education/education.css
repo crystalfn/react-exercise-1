@@ -1,0 +1,22 @@
+.education {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.education aside h4 {
+  margin: 0;
+  width: 100px;
+}
+
+.education article {
+  width: 100%;
+  background-color: #ededed;
+}
+
+article h4 {
+  margin: 10px;
+}
+
+article p {
+  margin: 10px;
+}

@@ -1,0 +1,21 @@
+header {
+  margin-top: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 3px solid #ededed;
+  padding-bottom: 20px;
+  width: 98%;
+}
+
+img {
+  position: absolute;
+  top: 5px;
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+}
+
+h1 {
+  line-height: 60px;
+}
