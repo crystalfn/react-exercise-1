@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Education from './education/Education';
-import './Educations.css';
+import './educations.css';
 
 class Educations extends Component {
   state = {
